@@ -1,7 +1,9 @@
 a {
   color: white;
 }
-
+body{
+  overflow-x:hidden;
+}
 .paddtop {
   padding-top: 10px;
 }
